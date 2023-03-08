@@ -2,8 +2,8 @@
   "name": "express-mongodb-vercel",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
-  "author": "Mir Hussain",
+  "license": "",
+  "author": "",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
